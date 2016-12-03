@@ -1,2 +1,2 @@
 # greeter
-greeter
+tsc -w greeter.ts
